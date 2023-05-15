@@ -28,3 +28,6 @@ CartesianGrid: Renders the grid lines of the chart.
 Tooltip: Displays tooltips for data points.
 Legend: Displays a legend for the chart.
 file-saver: A library that enables file downloads in the browser. In this code, the saveAs function is imported and used to save the histogram data as a CSV file.
+  
+  
+  hosting link - https://tiny78.netlify.app
